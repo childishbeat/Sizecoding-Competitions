@@ -11,7 +11,7 @@ A list of coding competitions, active or not, that feature space limitations as 
 ## Competitions
 | Name and website | Allowed technologies | Maximum space | Rules | Years active (plans) | Amount of competitions |
 | :- | :- | :- | :- | :- | :- |
-| [&lt;web4096&gt;](http://msg.sk/web4096) | DHTML (WEB-ART) and either Flash (FLASH-ART) or Java (JAVA CODING-ART) | 4K | [Here](http://msg.sk/web4096) | 1999-2001 | 2 |
+| [&lt;web4096&gt;](http://msg.sk/web4096) | DHTML (WEB-ART) and either Flash (FLASH-ART) or Java (JAVA CODING-ART) | 4KB | [Here](http://msg.sk/web4096) | 1999-2001 | 2 |
 | [4K VCS Assembly Programming Competition](http://atariage.com/forums/topic/283199-4k-vcs-assembly-programming-competition) | Assembly, BASIC (Atari 2600) | 4KB | [Here](http://atariage.com/forums/topic/283199-4k-vcs-assembly-programming-competition/?do=findComment&comment=4117800) | ✗ ([1st-31st October 2018, participant's timezone](atariage.com/forums/topic/283199-4k-vcs-assembly-programming-competition/?do=findComment&comment=4117717)) | 0 |
 | [7kb wettbewerb.](http://web.archive.org/web/20030206184228/7kb.de) | HTML, scripts, images, similar | <7KB | [Here](http://web.archive.org/web/20000816165152/7kb.de) | 2000 | 1 |
 | [10K Apart](http://a-k-apart.com) ([2010](http://web.archive.org/web/20150912102946/10k.aneventapart.com/1), [2011](http://web.archive.org/web/20150905085941/10k.aneventapart.com)) | HTML5 (2010-2011), web standards (2016) | 10KB | [Here](http://a-k-apart.com/faq) | 2010-2011, 2016 | 3 |
