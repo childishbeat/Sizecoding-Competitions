@@ -1,4 +1,4 @@
-# Space-Limited-Coding-Competitions
+# Sizecoding Competitions
 Note: Java and JavaScript aren't the same thing.
 
 A list of coding competitions featuring storage limitations as a primary element, in a similar vein to [fantasy](https://github.com/paladin-t/fantasy), a list of available fantasy consoles/computers by [paladin-t](https://github.com/paladin-t).
